@@ -1,9 +1,9 @@
 # Welcome to SIRI Software's Induction
-First of all, welcome to SIRI Software's induction task. This task will provide you with the motivation to get you to "self learn" ROS2 and prove your capabilities to the software team. The induction task varies in difficulty depending on how much members we currently have. There's a total of 3 difficulty levels: "Very hard", "Hard", and "Medium" difficulty. Currently this induction task is rated:
+First of all, welcome to SIRI Software's induction task. This task will provide you with the motivation to get you to "self learn" ROS2 and prove your capabilities to the software team. The induction task varies in difficulty depending on how many members we currently have. There's a total of 3 difficulty levels: "Very Hard", "Hard", and "Medium" difficulty. Currently this induction task is rated:
 
 **Hard**
 
-If it shows "hard" or "very hard" there, don't fret! The good news is the more you understand about ROS2 the more you **will** inevitably progress. If you're the type to be up for challenging problems, you'd sure love the extra challenge!
+If it shows "Hard" or "Very Hard" there, don't fret! The good news is the more you understand about ROS2 the more you **will** inevitably progress. If you're the type to be up for challenging problems, you'd sure love the extra challenge!
 
 ## Instructions
 We have provided you with a `wall_navigator` package containing 2 worlds: `maze_complex.world` and `maze_easy.world`. Both these maps contain a green starting area alongside a colored cube. 
@@ -24,9 +24,9 @@ During your implementation, you should *fork* this repository and invite both of
 
 Make sure to document how to run your robot in the README. An explanation of how your code works should also be put in the README.
 
-After completion, email the leads with a **link** to your repository, as well as attach a video (uploaded to OneDrive shared with both leads) showing the completion of each of the 2 mazes (thus 2 videos total, one for each maze).
+After completion, email the leads with a **link** to your repository and attach a video (uploaded to OneDrive shared with both leads) showing the completion of each of the 2 mazes (thus 2 videos total, one for each maze).
 
-The leads will try to get back to you as quickly as possible. And once we've verified your completion, we'll have a meeting (likely in-person) where we'll review your code and provide tips. During this meeting, be sure to bring your laptop and ensure that you can run your code.
+The leads will try to get back to you as quickly as possible. And once we've verified your completion, we'll have a meeting (likely in-person) where we'll review your code and provide feedback. During this meeting, be sure to bring your laptop and ensure that you can run your code.
 
 ## Tips
 To aid in your implementation, we have provided you with some resources. First, it is highly recommended to finish both playlists of Articulated Robotics.
