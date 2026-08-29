@@ -1,0 +1,4 @@
+[submodule "src/articubot_one"]
+	path = src/articubot_one
+	url = https://github.com/joshnewans/articubot_one.git
+	branch = new_gazebo
