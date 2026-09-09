@@ -12,7 +12,7 @@ Your task is to setup a robot that will **spawn** on the green starting area and
 
 Once the cube has been found, the robot should stop a distance away from the cube. The distance to stop from the cube needs to be supplied as a ROS2 node parameter. Note that to make this task easier, this distance *does not need to be in meters* (it could be some dimensionless number that is directly proportional to the distance).
 
-This implementation requires you to use 3D SLAM (not 2D SLAM, some examples of 2D SLAM systems are `slam_toolbox`, Google Cartographer 2D, etc.). The 3D SLAM system needs to use at least **1 depth camera**. Finally, you need to generate a costmap using the 3D SLAM system and the costmap should be used to determine whether there is a wall or not in your maze solving algorithm.
+This implementation requires you to use 3D SLAM (not 2D SLAM, some examples of 2D SLAM systems are `slam_toolbox`, Google Cartographer 2D, etc.). The 3D SLAM system needs to use at least **1 depth camera**. Finally, you need to generate a Nav2 costmap using the 3D SLAM system and the Nav2 costmap should be used to determine whether there is a wall or not in your maze solving algorithm.
 
 Finally, the implementation should work on ROS2 Jazzy and you are required to use the new Gazebo. Instead of having to write multiple nodes manually, a launch file should be written to launch everything needed in one go. To launch a different map, either a separate launch file can be launched or a launch file parameter can be passed in to select which map to load (this should be documented in the README).
 
