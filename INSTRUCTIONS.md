@@ -24,7 +24,7 @@ During your implementation, you should *fork* this repository and invite both of
 
 Make sure to document how to run your robot in the README. An explanation of how your code works should also be put in the README.
 
-After completion, email the leads with a **link** to your repository and attach a video (uploaded to OneDrive shared with both leads) showing the completion of each of the 2 mazes (thus 2 videos total, one for each maze).
+After completion, email the leads with a **link** to your repository and attach a video (uploaded to OneDrive shared with both leads) showing the completion of each of the 2 mazes (thus 2 videos total, one for each maze). You don't need to provide commentary in the videos. Showing RViz, Gazebo and how you launch the rover is more than enough. 
 
 The leads will try to get back to you as quickly as possible. And once we've verified your completion, we'll have a meeting (likely in-person) where we'll review your code and provide feedback. During this meeting, be sure to bring your laptop and ensure that you can run your code.
 
